@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "My Awesome Project"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: "WeSpeakInCursive"
+  text: "A Company That Offers Novel Solutions To Difficult Problems"
+  tagline: SpeechIsCourageous (#wesupportfreespeech)
   actions:
     - theme: brand
       text: Markdown Examples
@@ -15,11 +15,11 @@ hero:
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: LithiumSource
+    details: A Software Engineering Subsidiary that offers novel soltuions to Web 3.0, blockchains, cybersecurity, and other utilities
+  - title: Eastern Destroying Angel
+    details: A Game Development Studio That Offers Conceptual Games
+  - title: SynesterMedia
+    details: A Media Group that offers specific media
 ---
 
