@@ -8,11 +8,11 @@ hero:
   tagline: SpeechIsCourageous (#wesupportfreespeech)
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Projects
+      link: /projects
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Hiring
+      link: /hiring
 
 features:
   - title: LithiumSource
