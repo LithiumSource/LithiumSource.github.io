@@ -13,6 +13,9 @@ hero:
     - theme: alt
       text: Hiring
       link: /hiring
+    - theme: alt
+      text: Downloads
+      link: /downloads
 
 features:
   - title: LithiumSource
