@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "WeSpeakInCursive"
   text: "A Company That Offers Novel Solutions To Difficult Problems"
-  tagline: SpeechIsCourageous (#wesupportfreespeech)
+  tagline: Speech-Is-Courageous (#wesupportfreespeech)
   actions:
     - theme: brand
       text: Projects
@@ -18,7 +18,7 @@ hero:
       link: /downloads
 
 features:
-  - title: LithiumSource
+  - title: SundialSource
     details: A Software Engineering Subsidiary that offers novel soltuions to Web 3.0, blockchains, cybersecurity, and other utilities
   - title: Eastern Destroying Angel
     details: A Game Development Studio That Offers Conceptual Games
