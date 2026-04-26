@@ -24,5 +24,7 @@ features:
     details: A Game Development Studio That Offers Conceptual Games
   - title: SynesterMedia
     details: A Media Group that offers specific media
+  - title: Interoperable Web 3.0 Alliance (IW3A)
+    details: An Organization for Web 3.0
 ---
 
