@@ -15,8 +15,8 @@ export default defineConfig({
         text: 'Sidebar',
         items: [
           { text: 'Projects', link: '/projects' },
-          { text: 'Hiring', link: '/hiring' }
-          { text: 'Downloads', link: '/downloads'}
+          { text: 'Hiring', link: '/hiring' },
+          { text: 'Downloads', link: '/downloads'},
         ]
       }
     ],
