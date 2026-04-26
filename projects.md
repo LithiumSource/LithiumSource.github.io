@@ -6,9 +6,17 @@
 
 #### Win64PalisadeSecurity: A Cybersecurity Tool With Modular Packages
 
-<img src="https://raw.githubusercontent.com/LithiumSource/LithiumSource.github.io/refs/heads/main/static/download-2026-04-05T20_01_48.png" width="25%" height="25%">
+<img src="https://raw.githubusercontent.com/LithiumSource/LithiumSource.github.io/refs/heads/main/static/download-2026-04-05T20_01_48.png" width="10%" height="10%">
+
+
 
 A Security-Tool Used For Analysis, Hardening, Auditing, and Securing Windows Systems By The Best Standards Written In Rust. It provides a gui and interface to easily use the software and integrate it with other software. It is minimal and lightweight compared to most security solutions. It is novel in the way it works compared to most products.
+
+##### Example of GUI
+
+
+<img src="https://raw.githubusercontent.com/LithiumSource/LithiumSource.github.io/refs/heads/main/static/Screenshot%202026-04-26%20175920.png" width="50%" height="50%">
+
 
 
 
