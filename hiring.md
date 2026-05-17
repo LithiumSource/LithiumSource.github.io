@@ -6,4 +6,4 @@ At WeSpeakInCursive, we are looking to hire talented individuals and people who 
 
 These positions are intern only currently and will offer helpful learning experiences for new people. It is backed by tokens.
 
-Please contact WeSpeakInCursive@proton.me for hiring/partnership.
+Please contact jtortorelli09@gmail.com for hiring/partnership.
